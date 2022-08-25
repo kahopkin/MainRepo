@@ -1,1 +1,1 @@
-Welcome to the WikiRepoTest wiki!
+Changed inside Docs folder
